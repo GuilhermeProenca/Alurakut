@@ -79,6 +79,7 @@ AlurakutMenu.Wrapper = styled.header`
       font-size: 18px;
     }
     .boxLink {
+      max-width: 1rem;
       font-size: 18px;
       color: #2E7BB4;
       -webkit-text-decoration: none;
